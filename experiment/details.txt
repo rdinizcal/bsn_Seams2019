@@ -14,8 +14,6 @@ Experiments for section 4
        1.3) untamed system itself sources
                 1.3.1) uncertain centralhub reliability 
                               -- may be due to exceeding patients (messaging queue overflow)
-       1.4) untamed sources salad
-                1.4.1) mix all three sources above 
 
    2) approach tamed uncertainties
         2.1) no uncertainties with respect to the modeled ones (done)
