@@ -16,7 +16,7 @@
 
 ### Prerequesites
 
-You must have OpenDaVINCI version v4.16.0 installed to run the prototype. The * framework * can be found in the repository: https://github.com/se-research/OpenDaVINCI, where there are various operating systems. Link to the precompiled package: https://github.com/se-research/OpenDaVINCI/blob/master/docs/installation.pre-compiled.rst
+You must have OpenDaVINCI version v4.16.0 installed to run the prototype. The tool can be found in the repository: https://github.com/se-research/OpenDaVINCI, where there are various operating systems. Link to the precompiled package: https://github.com/se-research/OpenDaVINCI/blob/master/docs/installation.pre-compiled.rst
 
 ### Compiling
 
