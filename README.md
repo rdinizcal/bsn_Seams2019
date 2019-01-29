@@ -5,9 +5,13 @@
 ### Folder content
 
 ./docs - contains the goal models and formulae generated
+
 ./experiment - contains the details, data and r algorithms used to derive the graphs in the paper
+
 ./lepton - contains the library used for formulae parsing
+
 ./libbsn - contains the classes the support the bsn
+
 ./odv - contains the modules used in bsn execution and configuration files
 
 ### Prerequesites
